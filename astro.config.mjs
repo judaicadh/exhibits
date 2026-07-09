@@ -15,6 +15,11 @@ export default defineConfig({
 
   integrations: [partytown(), starlight({
 
+      components: {
+          // Per-page social share image (og:image / twitter:image)
+          Head: './src/components/Head.astro',
+      },
+
       customCss: [
           './src/styles/global.css',
 
@@ -68,6 +73,9 @@ export default defineConfig({
                   content: "I12kxjUxAiWXA-c35BszIwMeXWpZWPmVmAc629r4r4g", // paste from Search Console
               },
           },
+
+          // 🖼️ Social share images (og:image / twitter:image) are set per-page
+          //    in src/components/Head.astro, falling back to /assets/og-image.png.
 
           // 📊 Google Tag Manager (via Partytown)
           {

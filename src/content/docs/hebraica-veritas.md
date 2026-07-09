@@ -13,7 +13,7 @@ hero:
     Judaic Studies 1999-2001 Fellows at the University of Pennsylvania
   image:
     file: ../../../src/assets/HebraicaVeritas/veritas-splash.jpg
-slug: hebraica-vertias
+slug: hebraica-veritas
 tableOfContents:
   minHeadingLevel: 2
   maxHeadingLevel: 4
