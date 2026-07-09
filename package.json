@@ -16,7 +16,6 @@
     "@astrojs/starlight": "^0.41.3",
     "@astrojs/starlight-docsearch": "^0.7.0",
     "@astrojs/starlight-tailwind": "^5.0.0",
-    "@digi4care/astro-google-tagmanager": "^1.6.0",
     "@fontsource-variable/lora": "^5.2.5",
     "@fontsource-variable/playfair-display": "^5.2.5",
     "@tailwindcss/vite": "^4.1.12",
