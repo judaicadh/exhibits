@@ -3,8 +3,8 @@ title: "Laurence Salzmann and Ayşe Gürsan-Salzmann Collection"
 description: The Laurence Salzmann collection at the Penn Libraries contains a significant portion of the photographic output from his long career in documenting little known communities throughout the world.
 date: "1960–2010"
 hero:
-  title: "Laurence Salzmann and Ayşe Gürsan-Salzmann Collection"
-  tagline:  
+  title: Laurence Salzmann and Ayşe Gürsan-Salzmann Collection
+  tagline: "The Laurence Salzmann collection at the Penn Libraries contains a significant portion of the photographic output from his long career in documenting little known communities throughout the world."
   image:
     file: ../../../src/assets/13thCentury/entanglements-ascender2.png
     alt: Laurence Salzmann and Ayşe Gürsan-Salzmann Collection
